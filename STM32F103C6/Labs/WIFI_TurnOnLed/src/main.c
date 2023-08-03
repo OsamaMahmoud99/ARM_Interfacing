@@ -2,7 +2,7 @@
  * main.c
  *
  *  Created on: Oct 2, 2020
- *      Author: asss5
+ *      Author: Osama Mahmoud
  */
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"
